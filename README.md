@@ -7,3 +7,6 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/1/section/
 
 JavaScript:
 http://www.asmarterwaytolearn.com/js/index-of-exercises.html
+
+C linker:
+http://www.lurklurk.org/linkers/linkers.html
